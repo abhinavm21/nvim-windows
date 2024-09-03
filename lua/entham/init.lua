@@ -1,0 +1,8 @@
+require("entham.vimplug")
+require("entham.set")
+require("entham.lualine")
+require("entham.toggleterm")
+require("entham.remap")
+require("entham.nvim-tree")
+require("entham.text")
+require("entham.indent")
